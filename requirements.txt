@@ -1,0 +1,15 @@
+et_xmlfile==2.0.0
+graphviz==0.20.3
+numpy==2.3.3
+openpyxl==3.1.5
+pandas==2.3.2
+pillow==11.1.0
+PyQt6==6.5.1
+PyQt6-Qt6==6.5.1
+PyQt6_sip==13.5.1
+python-dateutil==2.9.0.post0
+pytz==2025.2
+setuptools==75.8.0
+six==1.17.0
+tzdata==2025.2
+wheel==0.45.1
