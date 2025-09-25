@@ -1,5 +1,5 @@
 # sales_record_connected
 sistem pencatatan sales
 
-input di Command prompt 
-pip install pandas openpyxl
+taro di command prompt folder buat kumpulan code ini :
+pip install -r requirements.txt
